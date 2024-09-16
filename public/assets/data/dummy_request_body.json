@@ -1,0 +1,21 @@
+{
+  "date": {
+    "from": "2024-09-12T21:44:49.576Z",
+    "to": "2024-09-19T21:44:49.576Z"
+  },
+  "pointsOfInterest": ["museum", "dining"],
+  "duration": "4-6",
+  "price": "2",
+  "location": {
+    "timestamp": 1726177489639,
+    "coords": {
+      "accuracy": 28.1,
+      "latitude": 54.4854521,
+      "longitude": 13.5060765,
+      "altitude": null,
+      "altitudeAccuracy": null,
+      "heading": null,
+      "speed": null
+    }
+  }
+}

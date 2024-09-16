@@ -1,0 +1,22 @@
+{
+  "index": 15754,
+  "title": "Ein Hauch von Schottland in Lietzow",
+  "location_website": "https://www.strandgut-lietzow.de",
+  "region": "Rügen",
+  "start_time": "2024-09-13T17:00:00",
+  "duration": 240.0,
+  "short_description": "Gemeinschaft zelebrieren, miteinander musizieren und Gedanken auszutauschen. Jeder ist willkommen, gern auch mit eigenem Instrument.",
+  "long_description": "Eine musikalische „Gemeinschafts-Idee“ möchte Tjitze de Jong, der viele Jahre in Schottland gelebt hat, auf seiner neuen Wahl-Insel Rügen etablieren. In Frauke Löhr, Inhaberin vom „Strandgut Lietzow“, hat er eine Unterstützerin für seine Idee gefunden. Jeden Samstag im ersten Monat des Jahres stellt sie die Räume ihres Restaurants zur Verfügung. Die Musiker der Insel mögen zusammen kommen und mit Zuschauern und Zuhörern spontan eine gute Zeit verleben. Es geht darum, Gemeinschaft zu zelebrieren, miteinander zu musizieren und Gedanken auszutauschen. Jeder ist willkommen, gern auch mit eigenem Instrument.\n",
+  "riddle": "Where can you find a taste of Scotland without needing a passport, where music flows but it's not a concert, and you are as welcome as a haggis in January?",
+  "answer": "Ein Hauch von Schottland in Lietzow",
+  "false_answers": [
+    "Oktoberfest in Munich",
+    "Carnival in Cologne",
+    "Berlin Film Festival"
+  ],
+  "explanation": "This event celebrates community and music on the island of Rügen, inspired by Scottish traditions, where anyone can join in with their own instrument.",
+  "distance": 0.6325661395150132,
+  "coordinates": [54.48358, 13.50665]
+}
+
+
