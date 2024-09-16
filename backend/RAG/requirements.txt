@@ -1,0 +1,6 @@
+haversine
+pandas
+openai==0.28
+matplotlib
+flask
+flask_cors
